@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NotificationCenter.Api</name>
+    </assembly>
+    <members>
+        <member name="T:NotificationCenter.Api.Controllers.ClientController">
+            <summary>
+            Represents the client controller
+            </summary>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.ClientController.#ctor(NotificationCenter.Core.Contracts.IClientService)">
+            <summary>
+            Creates an instance of <see cref="T:NotificationCenter.Api.Controllers.ClientController"/>
+            </summary>
+            <param name="clientService">An implementation of <see cref="T:NotificationCenter.Core.Contracts.IClientService"/>.</param>
+        </member>
+        <member name="T:NotificationCenter.Api.Controllers.RoomController">
+            <summary>
+            Represents the Room controller
+            </summary>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.RoomController.#ctor(NotificationCenter.Core.Contracts.IRoomService)">
+            <summary>
+            Creates an instance of <see cref="T:NotificationCenter.Api.Controllers.RoomController"/>
+            </summary>
+            <param name="roomService">An implementation of <see cref="T:NotificationCenter.Core.Contracts.IRoomService"/>.</param>    
+        </member>
+        <member name="T:NotificationCenter.Api.Controllers.TemplatesController">
+            <summary>
+            Represents the templates controller
+            </summary>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.TemplatesController.#ctor(NotificationCenter.Core.Managers.NotificationTemplateManager,NotificationCenter.Core.Managers.TemplateTypeManager,NotificationCenter.Core.Managers.TokenManager,AutoMapper.IMapper)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NotificationCenter.Api.Controllers.TemplatesController"/> class.
+            </summary>
+            <param name="notificationTemplateManager">An instance of <see cref="T:NotificationCenter.Core.Managers.NotificationTemplateManager"/>.</param>
+            <param name="templateTypeManager">An instance of <see cref="T:NotificationCenter.Core.Managers.TemplateTypeManager"/>.</param>
+            <param name="tokenManager">An instance of <see cref="T:NotificationCenter.Core.Managers.TokenManager"/>.</param>
+            <param name="mapper">An implementation of the <see cref="T:AutoMapper.IMapper"/> interface.</param>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.TemplatesController.GetTemplate(System.String)">
+            <summary>
+            Gets the notification template with given ID
+            </summary>
+            <param name="Id">the ID to search</param>
+            <returns>The template with the provided ID, if found</returns>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.TemplatesController.CreateNotificationTemplate(NotificationCenter.Core.Models.NotificationTemplateRequest)">
+            <summary>
+            Creates a new notification template
+            </summary>
+            <param name="template">The template to create</param>
+            <returns>the created notification</returns>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.TemplatesController.GetTemplateType(System.String)">
+            <summary>
+            Gets a template type with the provided templateId
+            </summary>
+            <param name="typeId">The Id to search for.</param>
+            <returns>A 200 status code with the found(if any) <see cref="T:NotificationCenter.Core.Domain.TemplateType"/> if successful.</returns>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.TemplatesController.GetAllTemplateTypes">
+            <summary>
+            Gets all the template types.
+            </summary>
+            <returns>A list of the template types</returns>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.TemplatesController.CreateTemplateType(NotificationCenter.Core.Models.TemplateTypeRequest)">
+            <summary>
+            Creates a new template type
+            </summary>
+            <param name="request">The data of the <see cref="T:NotificationCenter.Core.Domain.TemplateType"/> to create.</param>
+            <returns>A 201 code with the created template type, or 400 if the template type could not be created</returns>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.TemplatesController.DeleteTemplateType(System.String)">
+            <summary>
+            Disables the notification template type with the given Id, if there are no active templates with this Id.
+            </summary>
+            <param name="templateId">The Id of the <see cref="T:NotificationCenter.Core.Domain.TemplateType"/> to disable.</param>
+            <returns></returns>
+        </member>
+        <member name="T:NotificationCenter.Api.Controllers.TokensController">
+            <summary>
+            Represents the tokens controller
+            </summary>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.TokensController.#ctor(NotificationCenter.Core.Managers.TokenManager)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NotificationCenter.Api.Controllers.TokensController"/> class.
+            </summary>
+            <param name="tokenManager">An instance of <see cref="T:NotificationCenter.Core.Managers.TokenManager"/>.</param>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.TokensController.EstablishUserToken(NotificationCenter.Core.Models.UserTokenRequest)">
+            <summary>
+            Registers a new FCM Token
+            </summary>
+            <param name="userTokenRequest">A <see cref="T:NotificationCenter.Core.Models.UserTokenRequest"/> object</param>
+            <returns>A 200 status code if registered successfully.</returns>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.TokensController.RemoveDeviceToken(System.String,System.String)">
+            <summary>
+            Removes a token from records
+            </summary>
+            <param name="deviceIdentifier">Represents the value that identifies the device globally</param>
+            <param name="appName">Represents the app to which this identifier is asociated</param>
+            <returns>A 200 status code with the deleted device, if sueccessful.</returns>
+        </member>
+        <member name="T:NotificationCenter.Api.Controllers.TrackingController">
+            <summary>
+            Represent the tracking controller. This controller is intended to send push notifications about the route updates of an order.
+            </summary>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.TrackingController.#ctor(NotificationCenter.Core.NotificationCenterContext,FirebaseAdmin.Messaging.FirebaseMessaging)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NotificationCenter.Api.Controllers.TrackingController"/> class.
+            </summary>
+            <param name="context">An instance of the <see cref="T:NotificationCenter.Core.NotificationCenterContext"/> class.</param>
+            <param name="firebaseMessaging">>An instance of the <see cref="T:FirebaseAdmin.Messaging.FirebaseMessaging"/> class.</param>
+        </member>
+        <member name="M:NotificationCenter.Api.Controllers.TrackingController.Updatemarker(System.String,System.String,NotificationCenter.Core.Models.OrderUpdateRequest)">
+            <summary>
+            Sends a data message to the user with updated information about the status of an order.
+            </summary>
+            <param name="orderId">The Id of the order to update.</param>
+            <param name="userId">The Id of the user that will receive the notification.</param>
+            <param name="updateRequest">The data that will be sent to the user.</param>
+            <returns></returns>
+        </member>
+        <member name="T:NotificationCenter.Controllers.Controllers.NotificationsController">
+            <summary>
+            Represents the notification controller
+            </summary>
+        </member>
+        <member name="M:NotificationCenter.Controllers.Controllers.NotificationsController.#ctor(NotificationCenter.Core.Managers.NotificationTemplateManager,NotificationCenter.Core.Managers.TemplateTypeManager,NotificationCenter.Core.Managers.TokenManager,AutoMapper.IMapper,Microsoft.Extensions.Logging.ILogger{NotificationCenter.Controllers.Controllers.NotificationsController})">
+            <summary>
+            Initializes a new instance of the <see cref="T:NotificationCenter.Controllers.Controllers.NotificationsController"/> class.
+            </summary>
+            <param name="notificationTemplateManager">An instance of <see cref="T:NotificationCenter.Core.Managers.NotificationTemplateManager"/>.</param>
+            <param name="templateTypeManager">An instance of <see cref="T:NotificationCenter.Core.Managers.TemplateTypeManager"/>.</param>
+            <param name="tokenManager">An instance of <see cref="T:NotificationCenter.Core.Managers.TokenManager"/>.</param>
+            <param name="mapper">An implementation of the <see cref="T:AutoMapper.IMapper"/> interface.</param>
+        </member>
+        <member name="M:NotificationCenter.Controllers.Controllers.NotificationsController.SendNotificationFromTemplate(System.String,System.String,System.String,System.Collections.Generic.IDictionary{System.String,System.Object})">
+            <summary>
+            Sends a notification from a template to all devices of the specified user.
+            </summary>
+            <param name="templateId">The Id of the template to send</param>
+            <param name="userId">The Id of the user that will receive the notification</param>
+            <param name="appName">The package name of the app that should receive this notification.</param>
+            <param name="data">The required parameters for this speicific template. These will be used to customize the template and to be sent in the notification payload</param>
+            <returns>A 200 status code with an object containing the Id of the resulting <see cref="T:NotificationCenter.Core.Domain.NotificationTemplateSendHistory"/>.</returns>
+        </member>
+        <member name="M:NotificationCenter.Controllers.Controllers.NotificationsController.SendNotificationFromTemplateType(System.String,System.String,System.String,System.Collections.Generic.IDictionary{System.String,System.Object})">
+            <summary>
+            Sends a notification from a tempate type to all devices of the specified user.
+            </summary>
+            <param name="templateType">The Id of the template type which will be used to find a template to send</param>
+            <param name="userId">The Id of the user that will receive the notification</param>
+            <param name="appName">The package name of the app that should receive this notification.</param>
+            <param name="data">The required parameters for this speicific template. These will be used to customize the template and to be sent in the notification payload</param>
+            <returns>A 200 status code with an object containing the Id of the resulting <see cref="T:NotificationCenter.Core.Domain.NotificationTemplateSendHistory"/>.</returns>
+        </member>
+        <member name="M:NotificationCenter.Controllers.Controllers.NotificationsController.MarkNotificationAsRead(System.String,NotificationCenter.Core.Enums.ReadMethod)">
+            <summary>
+            Marks a sent template notification as read
+            </summary>
+            <param name="id">The ID of the notification template send log</param>
+            <param name="method">Indicates how the notification was read</param>
+            <returns>A 204 status code if the operation was successful.</returns>
+        </member>
+        <member name="M:NotificationCenter.Controllers.Controllers.NotificationsController.MarkManyNotificationsAsRead(System.Collections.Generic.List{System.String})">
+            <summary>
+            Marks many sent notifications as read
+            </summary>
+            <param name="notificationsId">A list of the notifications to be marked as read.</param>
+            <returns>A 204 status code if the operation was successful.</returns>
+        </member>
+        <member name="M:NotificationCenter.Controllers.Controllers.NotificationsController.MarkManyNotificationsAsIgnored(System.Collections.Generic.List{System.String})">
+            <summary>
+            Marks many sent notifications as ignored
+            </summary>
+            <param name="notificationsId">A list of the notifications to be marked as ignored.</param>
+            <returns>A 204 status code if the operation was successful.</returns>
+        </member>
+        <member name="M:NotificationCenter.Controllers.Controllers.NotificationsController.MarkNotificationAsIgnored(System.String)">
+            <summary>
+            Marks a sent template notification as ignored
+            </summary>
+            <param name="id">The ID of the notification template send log</param>
+            <returns>A 204 status code if the operation was successful.</returns>
+        </member>
+        <member name="M:NotificationCenter.Controllers.Controllers.NotificationsController.GetAllNotifications(System.String,System.Int32,System.Int32)">
+            <summary>
+            Gets all notifications for a given user
+            </summary>
+            <param name="userId">The Id of the user who's notification will be fetched</param>
+            <param name="count">The number of items to get per page</param>
+            <param name="page">The page to get</param>
+            <returns>A list of the notifications of the specified user.</returns>
+        </member>
+    </members>
+</doc>

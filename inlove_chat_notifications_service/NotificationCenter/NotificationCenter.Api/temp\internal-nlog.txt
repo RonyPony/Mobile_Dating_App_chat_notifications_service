@@ -1,0 +1,229 @@
+2022-07-05 22:31:50.0874 Info Message Template Auto Format enabled
+2022-07-05 22:31:50.1092 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 22:31:50.1588 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 22:31:50.2091 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 22:31:50.2906 Info Configuration initialized.
+2022-07-05 22:31:50.2922 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 22:31:50.4302 Info AppDomain Shutting down. Logger closing...
+2022-07-05 22:31:50.4396 Info Logger has been shut down.
+2022-07-05 22:34:15.6412 Info Message Template Auto Format enabled
+2022-07-05 22:34:15.6576 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 22:34:15.6941 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 22:34:15.7351 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 22:34:15.7655 Info Configuration initialized.
+2022-07-05 22:34:15.7666 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 22:34:15.8330 Info AppDomain Shutting down. Logger closing...
+2022-07-05 22:34:15.8413 Info Logger has been shut down.
+2022-07-05 22:44:10.1401 Info Message Template Auto Format enabled
+2022-07-05 22:44:10.1635 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 22:44:10.2062 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 22:44:10.2591 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 22:44:10.3173 Info Configuration initialized.
+2022-07-05 22:44:10.3184 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 22:44:10.4466 Info AppDomain Shutting down. Logger closing...
+2022-07-05 22:44:10.4528 Info Logger has been shut down.
+2022-07-05 22:44:27.0603 Info Message Template Auto Format enabled
+2022-07-05 22:44:27.0767 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 22:44:27.1130 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 22:44:27.1556 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 22:44:27.1848 Info Configuration initialized.
+2022-07-05 22:44:27.1857 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 22:44:27.2515 Info AppDomain Shutting down. Logger closing...
+2022-07-05 22:44:27.2583 Info Logger has been shut down.
+2022-07-05 22:48:23.2226 Info Message Template Auto Format enabled
+2022-07-05 22:48:23.2440 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 22:48:23.2808 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 22:48:23.3243 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 22:48:23.3786 Info Configuration initialized.
+2022-07-05 22:48:23.3795 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 22:48:23.4854 Info AppDomain Shutting down. Logger closing...
+2022-07-05 22:48:23.4918 Info Logger has been shut down.
+2022-07-05 22:50:50.8413 Info Message Template Auto Format enabled
+2022-07-05 22:50:50.8631 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 22:50:50.9078 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 22:50:50.9548 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 22:50:51.0049 Info Configuration initialized.
+2022-07-05 22:50:51.0058 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 22:50:51.0990 Info AppDomain Shutting down. Logger closing...
+2022-07-05 22:50:51.1083 Info Logger has been shut down.
+2022-07-05 22:57:03.8264 Info Message Template Auto Format enabled
+2022-07-05 22:57:03.8498 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 22:57:03.8973 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 22:57:03.9512 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 22:57:04.0064 Info Configuration initialized.
+2022-07-05 22:57:04.0082 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 22:57:04.1227 Info AppDomain Shutting down. Logger closing...
+2022-07-05 22:57:04.1316 Info Logger has been shut down.
+2022-07-05 22:58:15.4043 Info Message Template Auto Format enabled
+2022-07-05 22:58:15.4236 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 22:58:15.4662 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 22:58:15.5149 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 22:58:15.5509 Info Configuration initialized.
+2022-07-05 22:58:15.5518 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 22:58:15.6264 Info AppDomain Shutting down. Logger closing...
+2022-07-05 22:58:15.6347 Info Logger has been shut down.
+2022-07-05 23:00:59.9089 Info Message Template Auto Format enabled
+2022-07-05 23:00:59.9313 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:00:59.9700 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:01:00.0107 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:01:00.0653 Info Configuration initialized.
+2022-07-05 23:01:00.0663 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:01:01.0216 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:01:01.0270 Info Logger has been shut down.
+2022-07-05 23:01:56.0958 Info Message Template Auto Format enabled
+2022-07-05 23:01:56.1132 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:01:56.1518 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:01:56.1934 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:01:56.2490 Info Configuration initialized.
+2022-07-05 23:01:56.2501 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:01:57.0869 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:01:57.0934 Info Logger has been shut down.
+2022-07-05 23:02:10.4997 Info Message Template Auto Format enabled
+2022-07-05 23:02:10.5163 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:02:10.5532 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:02:10.5944 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:02:10.6500 Info Configuration initialized.
+2022-07-05 23:02:10.6511 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:02:11.5589 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:02:11.5647 Info Logger has been shut down.
+2022-07-05 23:06:21.0038 Info Message Template Auto Format enabled
+2022-07-05 23:06:21.0260 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:06:21.0641 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:06:21.1144 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:06:21.1700 Info Configuration initialized.
+2022-07-05 23:06:21.1713 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:06:23.2824 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:06:23.2952 Info Logger has been shut down.
+2022-07-05 23:06:42.6822 Info Message Template Auto Format enabled
+2022-07-05 23:06:42.7054 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:06:42.7521 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:06:42.8085 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:06:42.8657 Info Configuration initialized.
+2022-07-05 23:06:42.8666 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:06:44.8608 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:06:44.8679 Info Logger has been shut down.
+2022-07-05 23:14:22.0846 Info Message Template Auto Format enabled
+2022-07-05 23:14:22.1105 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:14:22.1487 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:14:22.1955 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:14:22.2545 Info Configuration initialized.
+2022-07-05 23:14:22.2555 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:14:23.0656 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:14:23.0715 Info Logger has been shut down.
+2022-07-05 23:14:42.6848 Info Message Template Auto Format enabled
+2022-07-05 23:14:42.7057 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:14:42.7440 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:14:42.7911 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:14:42.8464 Info Configuration initialized.
+2022-07-05 23:14:42.8477 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:14:43.8863 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:14:43.8914 Info Logger has been shut down.
+2022-07-05 23:15:09.0884 Info Message Template Auto Format enabled
+2022-07-05 23:15:09.1096 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:15:09.1495 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:15:09.1959 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:15:09.2559 Info Configuration initialized.
+2022-07-05 23:15:09.2571 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:15:10.6991 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:15:10.7096 Info Logger has been shut down.
+2022-07-05 23:17:03.5525 Info Message Template Auto Format enabled
+2022-07-05 23:17:03.5698 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:17:03.6137 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:17:03.6668 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:17:03.7027 Info Configuration initialized.
+2022-07-05 23:17:03.7027 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:17:04.8436 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:17:04.8489 Info Logger has been shut down.
+2022-07-05 23:17:14.1426 Info Message Template Auto Format enabled
+2022-07-05 23:17:14.1626 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:17:14.2067 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:17:14.2572 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:17:14.2960 Info Configuration initialized.
+2022-07-05 23:17:14.2969 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:17:17.0757 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:17:17.0822 Info Logger has been shut down.
+2022-07-05 23:18:28.2106 Info Message Template Auto Format enabled
+2022-07-05 23:18:28.2273 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:18:28.2632 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:18:28.3058 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:18:28.3372 Info Configuration initialized.
+2022-07-05 23:18:28.3381 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:18:29.1896 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:18:29.1957 Info Logger has been shut down.
+2022-07-05 23:18:40.8675 Info Message Template Auto Format enabled
+2022-07-05 23:18:40.9023 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:18:40.9449 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:18:40.9969 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:18:41.0456 Info Configuration initialized.
+2022-07-05 23:18:41.0468 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:18:43.0982 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:18:43.1052 Info Logger has been shut down.
+2022-07-05 23:19:34.0285 Info Message Template Auto Format enabled
+2022-07-05 23:19:34.0452 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:19:34.0882 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:19:34.1377 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:19:34.1736 Info Configuration initialized.
+2022-07-05 23:19:34.1744 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:19:35.0008 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:19:35.0089 Info Logger has been shut down.
+2022-07-05 23:20:03.6697 Info Message Template Auto Format enabled
+2022-07-05 23:20:03.6863 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:20:03.7217 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:20:03.7646 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:20:03.7940 Info Configuration initialized.
+2022-07-05 23:20:03.7951 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:20:04.6465 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:20:04.6524 Info Logger has been shut down.
+2022-07-05 23:28:43.1862 Info Message Template Auto Format enabled
+2022-07-05 23:28:43.2072 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:28:43.2425 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:28:43.2857 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:28:43.3287 Info Configuration initialized.
+2022-07-05 23:28:43.3296 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:28:43.4339 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:28:43.4388 Info Logger has been shut down.
+2022-07-05 23:29:13.2489 Info Message Template Auto Format enabled
+2022-07-05 23:29:13.2691 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:29:13.3044 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:29:13.3476 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:29:13.3771 Info Configuration initialized.
+2022-07-05 23:29:13.3778 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:29:14.0758 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:29:14.0811 Info Logger has been shut down.
+2022-07-05 23:29:57.5587 Info Message Template Auto Format enabled
+2022-07-05 23:29:57.5789 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:29:57.6145 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:29:57.6575 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/NLog.config
+2022-07-05 23:29:57.6873 Info Configuration initialized.
+2022-07-05 23:29:57.6881 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-07-05 23:29:58.3705 Info AppDomain Shutting down. Logger closing...
+2022-07-05 23:29:58.3756 Info Logger has been shut down.
+2022-07-05 23:50:44.9644 Info Message Template Auto Format enabled
+2022-07-05 23:50:45.0051 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 23:50:45.0571 Info Adding target DatabaseTarget(Name=db)
+2022-07-05 23:50:45.1387 Info Validating config: TargetNames=db, ConfigItems=30, FilePath=/Users/ronelcruz/Projects/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/bin/Debug/netcoreapp3.1/nlog.config
+2022-07-05 23:50:45.5697 Error DatabaseTarget(Name=db): Error when writing to database. Exception: System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2022-07-05 23:51:25.8116 Error DatabaseTarget(Name=db): Error when writing to database. Exception: Microsoft.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'dbo.InsertLog'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String methodName)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NLog.Targets.DatabaseTarget.ExecuteDbCommandWithParameters(LogEventInfo logEvent, IDbConnection dbConnection, IDbTransaction dbTransaction)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+ClientConnectionId:01d582ac-f1db-4927-8b23-c6a16336730f
+Error Number:2812,State:62,Class:16
