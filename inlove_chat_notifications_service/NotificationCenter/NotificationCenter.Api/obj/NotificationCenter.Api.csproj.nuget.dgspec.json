@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ronelcruz/Projects/MobileDatingApp-BackEnd/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/NotificationCenter.Api.csproj": {}
+    "/Users/ronelcruz/Projects/Mobile_Dating_App_chat_notifications_service/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/NotificationCenter.Api.csproj": {}
   },
   "projects": {
-    "/Users/ronelcruz/Projects/MobileDatingApp-BackEnd/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/NotificationCenter.Api.csproj": {
+    "/Users/ronelcruz/Projects/Mobile_Dating_App_chat_notifications_service/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/NotificationCenter.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ronelcruz/Projects/MobileDatingApp-BackEnd/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/NotificationCenter.Api.csproj",
+        "projectUniqueName": "/Users/ronelcruz/Projects/Mobile_Dating_App_chat_notifications_service/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/NotificationCenter.Api.csproj",
         "projectName": "NotificationCenter.Api",
-        "projectPath": "/Users/ronelcruz/Projects/MobileDatingApp-BackEnd/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/NotificationCenter.Api.csproj",
+        "projectPath": "/Users/ronelcruz/Projects/Mobile_Dating_App_chat_notifications_service/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/NotificationCenter.Api.csproj",
         "packagesPath": "/Users/ronelcruz/.nuget/packages/",
-        "outputPath": "/Users/ronelcruz/Projects/MobileDatingApp-BackEnd/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/obj/",
+        "outputPath": "/Users/ronelcruz/Projects/Mobile_Dating_App_chat_notifications_service/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ronelcruz/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/ronelcruz/Projects/MobileDatingApp-BackEnd/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/NotificationCenter.Core.csproj": {
-                "projectPath": "/Users/ronelcruz/Projects/MobileDatingApp-BackEnd/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/NotificationCenter.Core.csproj"
+              "/Users/ronelcruz/Projects/Mobile_Dating_App_chat_notifications_service/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/NotificationCenter.Core.csproj": {
+                "projectPath": "/Users/ronelcruz/Projects/Mobile_Dating_App_chat_notifications_service/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/NotificationCenter.Core.csproj"
               }
             }
           }
@@ -107,14 +107,14 @@
         }
       }
     },
-    "/Users/ronelcruz/Projects/MobileDatingApp-BackEnd/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/NotificationCenter.Core.csproj": {
+    "/Users/ronelcruz/Projects/Mobile_Dating_App_chat_notifications_service/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/NotificationCenter.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ronelcruz/Projects/MobileDatingApp-BackEnd/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/NotificationCenter.Core.csproj",
+        "projectUniqueName": "/Users/ronelcruz/Projects/Mobile_Dating_App_chat_notifications_service/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/NotificationCenter.Core.csproj",
         "projectName": "NotificationCenter.Core",
-        "projectPath": "/Users/ronelcruz/Projects/MobileDatingApp-BackEnd/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/NotificationCenter.Core.csproj",
+        "projectPath": "/Users/ronelcruz/Projects/Mobile_Dating_App_chat_notifications_service/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/NotificationCenter.Core.csproj",
         "packagesPath": "/Users/ronelcruz/.nuget/packages/",
-        "outputPath": "/Users/ronelcruz/Projects/MobileDatingApp-BackEnd/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/obj/",
+        "outputPath": "/Users/ronelcruz/Projects/Mobile_Dating_App_chat_notifications_service/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ronelcruz/.nuget/NuGet/NuGet.Config"

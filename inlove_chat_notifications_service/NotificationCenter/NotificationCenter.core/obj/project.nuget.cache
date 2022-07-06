@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jp52Wzhx7OFnHzj1reSIM4gz6IKyDnDWy+aNZb2MxMEZxNQ84XtLDD90baEUb6KudOi1hVOYYpH9L619jtxSyg==",
+  "dgSpecHash": "AbAvg4JNUvuO7Sv3gCYSbZJTPi01lMRPfOFK9U6wkFowTX2NW2Ph4lByTtem9N3Ie8+gDpTdVK6oX4DgNlHJVw==",
   "success": true,
-  "projectFilePath": "/Users/ronelcruz/Projects/MobileDatingApp-BackEnd/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/NotificationCenter.Core.csproj",
+  "projectFilePath": "/Users/ronelcruz/Projects/Mobile_Dating_App_chat_notifications_service/inlove_chat_notifications_service/NotificationCenter/NotificationCenter.core/NotificationCenter.Core.csproj",
   "expectedPackageFiles": [
     "/Users/ronelcruz/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/ronelcruz/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
